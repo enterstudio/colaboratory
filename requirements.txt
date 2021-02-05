@@ -1,1 +1,2 @@
 ipython[notebook]==2.4.1
+ipython>=3.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
